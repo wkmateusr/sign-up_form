@@ -11,4 +11,4 @@ The project in question is a simple and responsive form with JavaScript.
 *Here's a link to the form:*
 https://wkmateusr.github.io/sign-up_form/
 
-*Thanks for the visit
+Thanks for the visit
