@@ -17,7 +17,7 @@ main{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('.images/bg-intro-desktop.png') no-repeat;
+    background: url('.img/bg-intro-desktop.png') no-repeat;
     background-size: cover;
     background-color: hsl(0, 100%, 74%);
     padding: 0px 160px;
@@ -92,7 +92,7 @@ button:hover{
 }
 .error{
     border: 2px solid hsl(0, 100%, 74%);
-    background: url('./images/icon-error.svg') no-repeat;
+    background: url('./img/icon-error.svg') no-repeat;
     background-position: 95% 50%;
 }
 .error-text{
@@ -112,7 +112,7 @@ button:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background: url('./images/bg-intro-mobile.png');
+        background: url('./img/bg-intro-mobile.png');
         background-color: hsl(0, 100%, 74%);
     }
     section{
